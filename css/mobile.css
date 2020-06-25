@@ -1,0 +1,141 @@
+@media screen and (max-width: 400px){
+
+    body{
+        overflow-x: hidden;
+    }
+    .brand{
+        margin-top: 70px;
+        height: 1400px;
+        width: 700px;
+        background-image: url(../images/tape-measure-2406328_1280.jpg);
+        background-size:  2000px 1300px;
+        top: 0;
+        background-position: right;
+        background-repeat: no-repeat;
+    }
+    .brand__content{
+        position: absolute;
+        top: 850px;
+        background-color: rgba(255, 252, 252, 0.5);
+        width: 700px;
+        height: 350px;
+    }
+    h1{
+        font-size: 90px;
+    }
+    .about__letters{
+        display: block;
+        position: relative;
+        left: 0;
+        z-index: 7;
+
+    }
+    .about__letter{
+        display: none;
+    }
+
+    #about__text{
+        position: relative;
+        top: 30px;
+        font-size: 40px;
+        width: 600px;
+        height: 750px;
+        background-color: rgb(245, 216, 179);
+    }
+    #design{
+        height: 8000px;
+        width: 400px;
+    }
+    .design__blocks, .design__blocks2{
+        display: flex;
+    }
+    .design__blocks-box{
+        position: absolute;
+        width: 500px;
+        height: 500px;
+    }
+    .content1{
+        left: 100px;
+    }
+    .content2{
+        top: 900px;
+        left: 140px;
+    }
+    .content3{
+        top: 1700px;
+        left: 180px;
+    }
+    .content4{
+        top: 2700px;
+        left: 140px;
+    }
+    .content5{
+        top: 3400px;
+        left: 100px;
+    }
+    .content6{
+        top: 4100px;
+        left: 140px;
+    }
+    .content7{
+        top: 4900px;
+        left: 140px;
+    }
+    .content8{
+        top: 5700px;
+        left: 140px;
+    }
+    .design__img{
+        position: absolute;
+        width: 420px;
+        height: 650px;
+    }
+    .img1{
+        left: 180px;
+        top: 100px;
+    }
+    .img2{
+        left: 180px;
+        top: 900px;
+    }
+    .img3{
+        left: 160px;
+        top: 1750px;
+    }
+    .img4{
+        left: 180px;
+        top: 2650px;
+    }
+    .img5{
+        top: 3200px;
+        left: 110px;
+    }
+    .img6{
+        top: 4100px;
+        left: 160px;
+    }
+    .img7{
+        top: 5000px;
+        left: 250px;
+    }
+    .img8{
+        top: 5700px;
+        left: 100px;
+    }
+    .dress__container{
+      height: 500px;
+    }
+    .dress__container-text{
+        
+    }
+    .clothers{
+        position: relative;
+        top: 8600px;
+    }
+    #workshop{
+        position: relative;
+        height: 600px;
+        width: 400px;
+    } 
+
+}
